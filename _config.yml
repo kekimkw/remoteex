@@ -22,8 +22,8 @@ title: 나의 첫 웹페이지지
 email: riversilver@kw.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   저의 첫번째 웹사이트 입니다.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/remoteex" # the subpath of your site, e.g. /blog
+url: "https://kekimkw/github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
